@@ -1,7 +1,5 @@
-.my_background{
-  background-color: red;
-}
-.my_tooltip p{
+
+.my_tooltip span{
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
