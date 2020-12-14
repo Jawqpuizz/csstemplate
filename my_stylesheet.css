@@ -1,5 +1,6 @@
-
-
+.my_background{
+  background-color: red;
+}
 .my_tooltip {
   position: relative;
   display: inline-block;
