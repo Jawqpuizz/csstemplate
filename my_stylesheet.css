@@ -1,7 +1,7 @@
 .my_background{
   background-color: red;
 }
-.my_tooltip {
+.my_tooltip p{
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
@@ -20,6 +20,6 @@
   z-index: 1;
 }
 
-.tooltip:hover .tooltiptext {
+.my_tooltip:hover .tooltiptext {
   visibility: visible;
 }
